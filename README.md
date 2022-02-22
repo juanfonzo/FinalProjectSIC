@@ -1,1 +1,1 @@
-# FinalProjectSIC
+# coding-project-template
